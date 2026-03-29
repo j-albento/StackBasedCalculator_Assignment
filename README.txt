@@ -2,8 +2,6 @@
 README – Stack-Based Calculator for Postfix Notation with BST
 ------------------------------------------------------------
 
-Student Name: Muhammad Asim
-Course: Bachelor of Technology – Software Development
 Assignment: Stack-Based Calculator for Postfix Notation with BST
 
 ------------------------------------------------------------
